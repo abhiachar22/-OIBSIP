@@ -1,0 +1,52 @@
+body 
+{
+		background-image:linear-gradient(rgba(24, 169, 213, 0.897),rgba(59, 42, 42, 0.508)) ;
+		margin: 10%;
+		font-size: 19px;
+		color: black;
+}
+
+
+		#title {
+			text-align: center;
+			text-shadow: 1px 1px 2px rgb(62, 59, 59);
+			font-size: 7vh;
+			
+		}
+
+
+		#img {
+			border: 1px solid rgb(61, 197, 206);
+			display: block;
+			margin-left: auto;
+			margin-right: auto;
+			width: 40%;
+			/* padding-left: 90px; */
+			text-align: center;
+		}
+
+		#caption {
+			font-size: 19px;
+			font-family: Gill Sans;
+			color: rgb(2, 2, 2);
+		}
+		#content{
+			background-color: rgba(0, 255, 225, 0.25);
+			box-shadow: 20px 20px 20px #2cd1ce;
+			font-family: Georgia;
+			padding: 25px 25px;
+			margin: 11px;
+			margin-top: 50px;
+		}
+
+		h1.title {
+			font-size: 35px;
+			color: white;
+			text-align: center;
+			text-shadow: 5px 5px 10px black;
+		}
+
+		#tribute-link {
+			text-decoration: none;
+			color: black;
+		}
